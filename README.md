@@ -24,8 +24,9 @@ Passionné par la sécurité offensive et le développement bas niveau, je suis 
 | Projet | Niveau | Description | Techs |
 | :--- | :---: | :--- | :--- |
 | **[PyPass-Validator](https://github.com/yanisdardaz/PyPass-Validator)** | 🟢 | Analyseur de complexité de mots de passe et calcul d'entropie. | Python |
-| **[Net-Scanner-Tool](https://github.com/yanisdardaz/Net-Scanner-Tool)** | 🟡 | Scanner réseau furtif pour la découverte d'assets et de services. | Python (Scapy) |
-
+| **[Net-Scanner-Tool](https://github.com/yanisdardaz/Net-Scanner-Tool)** | 🟡 | Scanner réseau ARP pour la découverte d’hôtes et de services sur un réseau local. | Python (Scapy) |
+| **[Générateur de mots de passe](https://github.com/yanisdardaz/generateur-de-mdp-)** | 🟢 | Générateur de mots de passe sécurisé avec caractères aléatoires (majuscules, minuscules, chiffres, symboles). | Python |
+| **[Portfolio](https://github.com/yanisdardaz/portfolio)** | ⚪ | Page de présentation de mes projets en cybersécurité et développement. | HTML / CSS |
 ### 📊 Statistiques GitHub
 
 [![Stats de Yanis](https://github-readme-stats.vercel.app/api?username=yanisdardaz&show_icons=true&theme=tokyonight)](https://github.com/yanisdardaz)
