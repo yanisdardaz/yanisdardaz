@@ -25,11 +25,6 @@ Passionné par la sécurité offensive et le développement bas niveau, je suis 
 | :--- | :---: | :--- | :--- |
 | **[PyPass-Validator](https://github.com/yanisdardaz/PyPass-Validator)** | 🟢 | Analyseur de complexité de mots de passe et calcul d'entropie. | Python |
 | **[Net-Scanner-Tool](https://github.com/yanisdardaz/Net-Scanner-Tool)** | 🟡 | Scanner réseau furtif pour la découverte d'assets et de services. | Python (Scapy) |
-| **Secure-C-Shell** | 🔴 | Shell custom avec contrôle d'accès et logs d'activité. | C |
-| **Malware-Sandbox** | 🔴 | Lab d'analyse dynamique automatisé via Docker. | Bash / Docker |
-| **CTF-Writeups** | 📁 | Mes rapports détaillés de machines Root-Me & THM. | Markdown |
-
----
 
 ### 📊 Statistiques GitHub
 
