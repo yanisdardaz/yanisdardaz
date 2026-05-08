@@ -25,7 +25,7 @@ Passionné par la sécurité offensive et le développement bas niveau, je suis 
 | :--- | :---: | :--- | :--- |
 | **[PyPass-Validator](https://github.com/yanisdardaz/PyPass-Validator)** | 🟢 | Analyseur de complexité de mots de passe et calcul d'entropie. | Python |
 | **[Net-Scanner-Tool](https://github.com/yanisdardaz/Net-Scanner-Tool)** | 🟡 | Scanner réseau furtif pour la découverte d'assets et de services. | Python (Scapy) |
-
+| :--- | :---: | :--- | :--- |
 ### 📊 Statistiques GitHub
 
 [![Stats de Yanis](https://github-readme-stats.vercel.app/api?username=yanisdardaz&show_icons=true&theme=tokyonight)](https://github.com/yanisdardaz)
